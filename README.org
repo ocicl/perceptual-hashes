@@ -1,0 +1,10 @@
+* perceptual-hashes
+
+Perceptual image hashing for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/shamazmazum/perceptual-hashes.git   |
+| commit  | e52e7f8  |
+| systems | perceptual-hashes |
+|---------+-------------------------------------------|
+
