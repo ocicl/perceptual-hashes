@@ -4,7 +4,7 @@ Perceptual image hashing for Common Lisp
 
 |---------+----------------------------------------------------------|
 | source  | git:https://github.com/shamazmazum/perceptual-hashes.git |
-| commit  | c640dda                                                  |
+| commit  | d485d33                                                  |
 | systems | perceptual-hashes                                        |
 |---------+----------------------------------------------------------|
  
