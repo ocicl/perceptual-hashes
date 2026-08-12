@@ -7,3 +7,4 @@ Perceptual image hashing for Common Lisp
 | commit  | c640dda                                                  |
 | systems | perceptual-hashes                                        |
 |---------+----------------------------------------------------------|
+ 
